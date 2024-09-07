@@ -1,2 +1,3 @@
-# Simple-Stock-Price-App
-Simple Stock Price App using Python, yfinance and streamlit
+Data Science Apps
+1. Simple Stock Price App using Python, yfinance and streamlit
+2. Simple Bioinformatics DNA Count
